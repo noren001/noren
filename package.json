@@ -1,0 +1,22 @@
+{
+  "name": "noren",
+  "version": "1.0.0",
+  "description": "فروشگاه اینترنتی noren",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "autopush": "git add . && git commit -m \"Auto-commit: $(date)\" && git push origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noren001/noren.git"
+  },
+  "keywords": [],
+  "author": "noren001",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/noren001/noren/issues"
+  },
+  "homepage": "https://github.com/noren001/noren#readme"
+}
