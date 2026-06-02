@@ -33,7 +33,7 @@ export default function Home() {
                 href="/products"
                 className="group rounded-xl bg-linear-to-r from-blue-500 to-purple-600 px-8 py-4 text-center font-semibold text-white shadow-lg transition duration-300 hover:shadow-2xl hover:shadow-blue-500/50 active:scale-95"
               >
-                مشاهده محصولات
+                مشاهههههده محصولات
               </Link>
               <Link
                 href="/auth"
