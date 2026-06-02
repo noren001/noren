@@ -1,0 +1,1 @@
+"D:\PostgreSQL\18\bin\psql.exe" -U postgres -c "CREATE DATABASE noren;"
